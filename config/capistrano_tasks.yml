@@ -1,0 +1,7 @@
+deploy: deploy
+migration: deploy:migrate
+restart: deploy:restart
+rollback: deploy:rollback
+update_code: deploy:update_code
+start: deploy:start
+stop: deploy:start

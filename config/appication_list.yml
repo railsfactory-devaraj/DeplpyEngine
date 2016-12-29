@@ -1,0 +1,14 @@
+52.32.42.38:
+  - Blog1:
+      deploy_to: /home/deployuser/Blog1/
+      repo_url: git@github.com:railsfactory-devaraj/Blog.git
+  - Blog2:
+      deploy_to: /home/deployuser/Blog2/
+      repo_url: git@github.com:railsfactory-devaraj/Blog.git
+35.161.5.70:
+  - Blog1:
+      deploy_to: /home/deployuser/Blog1/
+      repo_url: git@github.com:railsfactory-devaraj/Blog.git
+  - Blog2:
+      deploy_to: /home/deployuser/Blog2/
+      repo_url: git@github.com:railsfactory-devaraj/Blog.git
